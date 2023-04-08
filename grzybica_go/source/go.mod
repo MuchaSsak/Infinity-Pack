@@ -1,11 +1,10 @@
-module example.com/greetings
+module example.com/m
 
 go 1.20
 
 require (
 	github.com/gdamore/encoding v1.0.0 // indirect
 	github.com/gdamore/tcell/v2 v2.6.0 // indirect
-	github.com/gonutz/rsrc v0.0.0-20180911104558-96f130112cb1 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/rivo/tview v0.0.0-20230406072732-e22ce9588bb4 // indirect
